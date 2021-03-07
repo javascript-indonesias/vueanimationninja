@@ -4,7 +4,6 @@
         <router-link to="/contact">Contact</router-link>
     </div>
     <router-view />
-    <router-view />
 </template>
 
 <style lang="scss">
@@ -15,6 +14,7 @@
     text-align: center;
     color: #2c3e50;
     margin: 0;
+    height: 100vh;
     background: #f2f2f2;
 }
 
